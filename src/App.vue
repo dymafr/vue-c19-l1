@@ -39,7 +39,7 @@ function navigate(page: Page): void {
 </template>
 
 <style lang="scss">
-@import './assets/scss/base.scss';
+@use './assets/scss/base.scss';
 @import './assets/scss/debug.scss';
 
 .app-container {
